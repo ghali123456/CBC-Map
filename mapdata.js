@@ -613,7 +613,7 @@ var simplemaps_statemap_mapdata={
       description: "23 Clients (click for more info)",
       type: "star",
       size: "25",
-      url: "https://www.usd.edu"
+      url: "https://www.usd.edu/Academics/Colleges-and-Schools/beacom-school-of-business/Coyote-Business-Consulting"
     },
     "1": {
       lat: 45.459,
